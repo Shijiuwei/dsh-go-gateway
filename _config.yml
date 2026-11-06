@@ -1,0 +1,5 @@
+title: "dsh-go-gateway"
+description: "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 - Autonomous high-performance implementation and production toolkit."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
